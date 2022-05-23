@@ -7,8 +7,6 @@
     <title>Prueba</title>
 </head>
 <body>
-    <h1>Hola Mundo</h1>
-
-    <h2>Adiós Mundo</h2>
+    <h1>Soobin es el amor de mi vida</h1>
 </body>
 </html>
